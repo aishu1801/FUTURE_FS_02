@@ -1,40 +1,30 @@
-# 🚀 CRM Dashboard - Task 2 (Future Interns)
+# 🚀 Client Lead Management System (Mini CRM) - Task 2
 
-## 📌 Project Overview
-Full-stack CRM dashboard built using React, Node.js, Express, and MongoDB.
+A full-stack CRM application built to manage and track inbound client leads dynamically. This system helps businesses, agencies, and freelancers streamline their pipeline workflow from initial contact to successful conversion.
+
+## 🔗 Project Links
+🌐 **Live Demo:** [View Live CRM Dashboard](https://future-fs-02-two-wine.vercel.app/)  
+💻 **GitHub Repository:** [https://github.com/aishu1801/FUTURE_FS_02](https://github.com/aishu1801/FUTURE_FS_02)
 
 ---
 
-## ✨ Features
-- Add leads
-- Edit leads
-- Delete leads
-- Search functionality
-- Analytics dashboard
+## ✨ Key Features
+
+* **Lead Listing Dashboard:** View all incoming lead details including Name, Email, Lead Source, and current status at a glance.
+* **Pipeline Management:** Dynamically track and update lead status milestones (`New` ➔ `Contacted` ➔ `Converted`).
+* **Follow-up Logs & Notes:** Add custom client-specific notes to maintain accurate interaction records.
+* **Responsive UI:** Clean, intuitive user interface designed using React components for seamless navigation.
 
 ---
 
 ## 🛠️ Tech Stack
-- React.js
-- Node.js
-- Express.js
-- MongoDB
 
----
-
-## ▶️ How to Run
-
-### Backend
-cd server  
-npm install  
-node server.js  
-
-### Frontend
-cd client  
-npm install  
-npm start  
+* **Frontend:** React.js, HTML5, CSS3, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Deployment:** Vercel (Frontend)
 
 ---
 
 ## 👩‍💻 Author
-Task 2 Submission - Future Interns
+**Aishwarya** - Task 2 Submission for the Full-Stack Web Development Internship at **Future Interns**.
